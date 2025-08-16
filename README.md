@@ -5,8 +5,9 @@
 	<br>
 </div>
 <div align="center">
-  ![](typingcat.gif)&nbsp;&nbsp;**i love coding**&nbsp;&nbsp;![](typingcat.gif)
+  ![typingcat](https://github.com/user-attachments/assets/5ec6291e-99a4-4a0d-aa21-a192dbbfed40)&nbsp;&nbsp;**i love coding**&nbsp;&nbsp;![typingcat](https://github.com/user-attachments/assets/5ec6291e-99a4-4a0d-aa21-a192dbbfed40)
 </div>
+![typingcat](https://github.com/user-attachments/assets/5ec6291e-99a4-4a0d-aa21-a192dbbfed40)
 
 Here are some ideas to get you started:
 
