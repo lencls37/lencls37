@@ -1,7 +1,12 @@
-## Hi there 👋
-
-<!--
-**lencls37/lencls37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my Github
+<div align="center">
+	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Welcome to my github">
+	<br>
+	<br>
+</div>
+<div align="center">
+  ![](typingcat.gif)&nbsp;&nbsp;**i love coding**&nbsp;&nbsp;![](typingcat.gif)
+</div>
 
 Here are some ideas to get you started:
 
